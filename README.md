@@ -23,7 +23,11 @@ TODO
 
 ### Dónde encontrar trabajo
 
-TODO
+#### Trabajos Remotos Enero 2020
+https://docs.google.com/spreadsheets/d/18bljq3y5YTxPLmA4xj10EaKxs1KWhIdLTr8bF1K5XKI/edit#gid=0
+
+#### Referencia de sueldos (autodeclarados)
+https://docs.google.com/spreadsheets/d/1VOehQv0bOs2pY7RkKJ8RmlUbuu8UmSgzfvjR0m5hyxQ/
 
 ## Recibe tu sueldo
 

@@ -144,7 +144,7 @@ Una vez le pasaste los datos de transferencia a tu empleador:
 - ahora puedes vender dólares, y los pesos chilenos serán depositados en tu cuenta corriente
 - también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉 
 
-Es muy cómo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
+Es muy cómodo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
 
 Eso sí, es importante tener cuenta que:
 
